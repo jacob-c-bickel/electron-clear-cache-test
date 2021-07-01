@@ -1,0 +1,13 @@
+{
+  "name": "cache-test",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^13.1.4"
+  }
+}
